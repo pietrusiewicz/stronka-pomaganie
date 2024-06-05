@@ -10,10 +10,6 @@ This repository contains the HTML code for a simple dog racing website. The webs
 - [Customization](#customization)
 - [License](#license)
 
-## Preview
-
-![Dog Racing](https://www.example.com/dog-race1.jpg)
-
 ## Features
 
 - **Responsive Design**: The website is responsive and adapts to different screen sizes, making it accessible on both desktop and mobile devices.
